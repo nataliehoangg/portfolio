@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Student",
+      "organisation": "Girls Who Code",
+      "startDate": "JULY 2022",
+      "endDate": "AUGUST 2022",
+      "experiences": ["Designed and implemented a Python-based chatbot to educate users on climate change.", "Gathered data from research on global warming and sustainable living practices."],
+      "imageSrc": "history/gwc.png"
+    }
+  ]

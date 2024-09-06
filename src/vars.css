@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=The+Seasons&display=swap');
+
+:root {
+    /* colors */
+    --color-text: #000000;
+    --color-primary: #d3d3d3;
+    --color-secondary: #a8a8a8;
+    --color-dark: #424242;
+    --color-bg: #f2f2f2;
+
+    /* fonts */
+    --title-text: 'The Seasons', serif;
+    --basic-text: 'Poppins', sans-serif;
+}

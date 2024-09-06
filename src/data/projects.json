@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Sonny Angel Wikipedia",
+      "imageSrc": "projects/sonnyangelwiki.png",
+      "description": "A Wikipedia-style page for Sonny Angel figurines",
+      "skills": [ "HTML", "CSS"],
+      "demo": "https://nataliehoangg.github.io/sonnyangelwiki/",
+      "source": "https://github.com/nataliehoangg/sonnyangelwiki"
+    },
+    {
+      "title": "Brewista",
+      "imageSrc": "projects/brewista.png",
+      "description": "An automated soda machine with customizable drink recipes.",
+      "skills": ["C++", "Arduino", "DC Motors","CAD", "HTML", "CSS", "Java"],
+      "demo": "https://nataliehoangg.github.io/brewista-machine/",
+      "source": "https://nataliehoangg.github.io/brewista-machine/"
+    },
+    {
+      "title": "???",
+      "imageSrc": "projects/blank.png",
+      "description": "More to come...",
+      "skills": [],
+      "demo": "",
+      "source": ""
+    }
+  ]
